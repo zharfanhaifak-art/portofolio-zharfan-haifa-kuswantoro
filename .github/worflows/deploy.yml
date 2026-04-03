@@ -1,4 +1,4 @@
-name: Deploy to HostData
+name: Deploy to HostData portofolio
 
 on:
   push:
